@@ -31,6 +31,9 @@
         <mxCell id="JA1AwiZLP-87ghdNmqDY-8" value="反馈处理结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="267" y="1322" width="157" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="JA1AwiZLP-87ghdNmqDY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JA1AwiZLP-87ghdNmqDY-9" target="JA1AwiZLP-87ghdNmqDY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JA1AwiZLP-87ghdNmqDY-9" value="客户是否满意?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="344" y="1421" width="151" height="151" as="geometry" />
         </mxCell>
@@ -105,13 +108,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JA1AwiZLP-87ghdNmqDY-26" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JA1AwiZLP-87ghdNmqDY-9" target="JA1AwiZLP-87ghdNmqDY-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="441" y="1608" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JA1AwiZLP-87ghdNmqDY-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JA1AwiZLP-87ghdNmqDY-11" target="JA1AwiZLP-87ghdNmqDY-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -125,12 +121,6 @@
         <mxCell id="JA1AwiZLP-87ghdNmqDY-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JA1AwiZLP-87ghdNmqDY-13" target="JA1AwiZLP-87ghdNmqDY-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JA1AwiZLP-87ghdNmqDY-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="1480" as="sourcePoint" />
-            <mxPoint x="400" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
