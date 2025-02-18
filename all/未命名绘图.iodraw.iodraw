@@ -34,10 +34,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JA1AwiZLP-87ghdNmqDY-4" value="升级到上级部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="367" y="1026" width="172" height="49" as="geometry" />
+          <mxGeometry x="392" y="970" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JA1AwiZLP-87ghdNmqDY-5" value="分派相关部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1026" width="157" height="49" as="geometry" />
+          <mxGeometry x="140" y="990" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JA1AwiZLP-87ghdNmqDY-6" value="调查处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="284" y="1125" width="124" height="49" as="geometry" />
