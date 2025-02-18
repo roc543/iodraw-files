@@ -24,9 +24,13 @@
         <mxCell id="JA1AwiZLP-87ghdNmqDY-3" value="是否需升级处理?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="262" y="786" width="167" height="167" as="geometry" />
         </mxCell>
-        <mxCell id="JA1AwiZLP-87ghdNmqDY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JA1AwiZLP-87ghdNmqDY-4">
+        <mxCell id="JA1AwiZLP-87ghdNmqDY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.446;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JA1AwiZLP-87ghdNmqDY-4" target="JA1AwiZLP-87ghdNmqDY-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="453" y="1100" />
+              <mxPoint x="339" y="1100" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JA1AwiZLP-87ghdNmqDY-4" value="升级到上级部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -112,12 +116,6 @@
         <mxCell id="JA1AwiZLP-87ghdNmqDY-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JA1AwiZLP-87ghdNmqDY-13" target="JA1AwiZLP-87ghdNmqDY-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JA1AwiZLP-87ghdNmqDY-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="1050" as="sourcePoint" />
-            <mxPoint x="400" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JA1AwiZLP-87ghdNmqDY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.441;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JA1AwiZLP-87ghdNmqDY-5" target="JA1AwiZLP-87ghdNmqDY-6">
