@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JA1AwiZLP-87ghdNmqDY-10" value="重新调查处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="112" y="1470" width="156" height="49" as="geometry" />
+          <mxGeometry x="112" y="1472" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JA1AwiZLP-87ghdNmqDY-11" value="关闭投诉" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="379" y="1645" width="124" height="49" as="geometry" />
@@ -87,20 +87,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="238" y="990" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JA1AwiZLP-87ghdNmqDY-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.92;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JA1AwiZLP-87ghdNmqDY-4" target="JA1AwiZLP-87ghdNmqDY-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="453" y="1100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JA1AwiZLP-87ghdNmqDY-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.07;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JA1AwiZLP-87ghdNmqDY-5" target="JA1AwiZLP-87ghdNmqDY-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="238" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
