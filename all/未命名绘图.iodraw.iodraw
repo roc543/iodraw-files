@@ -34,11 +34,6 @@
         <mxCell id="JA1AwiZLP-87ghdNmqDY-9" value="客户是否满意?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="344" y="1421" width="151" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="JA1AwiZLP-87ghdNmqDY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JA1AwiZLP-87ghdNmqDY-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="1450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JA1AwiZLP-87ghdNmqDY-10" value="重新调查处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="173" y="1645" width="156" height="49" as="geometry" />
         </mxCell>
