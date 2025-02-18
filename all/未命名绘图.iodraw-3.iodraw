@@ -25,6 +25,9 @@
         <mxCell id="HHvEnQS2fOgcjhtam4F5-7" value="投诉核实与调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="712.5" y="120" width="172" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="HHvEnQS2fOgcjhtam4F5-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HHvEnQS2fOgcjhtam4F5-8" target="HHvEnQS2fOgcjhtam4F5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HHvEnQS2fOgcjhtam4F5-8" value="责任判定" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="742" y="217" width="113" height="113" as="geometry" />
         </mxCell>
@@ -440,18 +443,6 @@
         <mxCell id="HHvEnQS2fOgcjhtam4F5-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="HHvEnQS2fOgcjhtam4F5-44" target="HHvEnQS2fOgcjhtam4F5-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HHvEnQS2fOgcjhtam4F5-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="380" as="sourcePoint" />
-            <mxPoint x="430" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HHvEnQS2fOgcjhtam4F5-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="380" as="sourcePoint" />
-            <mxPoint x="430" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
